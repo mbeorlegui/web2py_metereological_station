@@ -1,0 +1,24 @@
+[2017-10-05 13:54:40] START
+[2017-10-05 13:54:40] EDIT Estacion_meteoro/controllers/default.py: 0
+[2017-10-06 09:01:43] EDIT Estacion_meteoro/models/db_wizard.py: 2
+[2017-10-06 09:05:02] EDIT Estacion_meteoro/models/db_wizard.py: 0
+[2017-10-06 09:35:27] EDIT Estacion_meteoro/models/db_wizard.py: 8
+[2017-10-06 09:35:46] EDIT Estacion_meteoro/models/db_wizard.py: 0
+[2017-10-06 09:45:42] EDIT Estacion_meteoro/models/db_wizard.py: 0
+[2017-10-06 09:49:26] EDIT Estacion_meteoro/models/db_wizard.py: 0
+[2017-10-06 09:55:08] EDIT Estacion_meteoro/models/db_wizard.py: 0
+[2017-10-06 09:56:37] EDIT Estacion_meteoro/views/default/actual_manage.html: 1
+[2017-10-06 09:58:17] EDIT Estacion_meteoro/views/default/actual_manage.html: 0
+[2017-10-06 09:58:30] EDIT Estacion_meteoro/views/default/actual_manage.html: -1
+[2017-10-06 09:58:41] EDIT Estacion_meteoro/views/default/actual_manage.html: 0
+[2017-10-06 09:58:49] EDIT Estacion_meteoro/views/default/registro_clima_manage.html: 0
+[2017-10-06 09:59:06] EDIT Estacion_meteoro/views/default/actual_manage.html: 0
+[2017-10-06 09:59:08] EDIT Estacion_meteoro/views/default/actual_manage.html: 0
+[2017-10-06 09:59:18] EDIT Estacion_meteoro/views/default/actual_manage.html: 0
+[2017-10-06 09:59:45] EDIT Estacion_meteoro/views/default/registro_clima_manage.html: 0
+[2017-10-06 10:01:41] EDIT Estacion_meteoro/views/default/actual_manage.html: 2
+[2017-10-06 10:02:29] EDIT Estacion_meteoro/views/default/actual_manage.html: -2
+[2017-10-08 10:24:56] EDIT Estacion_meteoro/views/default/actual_manage.html: 3
+[2017-10-08 10:25:20] EDIT Estacion_meteoro/views/default/actual_manage.html: -3
+[2017-10-10 12:49:17] EDIT Estacion_meteoro/views/default/index.html: 0
+[2017-10-10 14:42:29] EDIT Estacion_meteoro/controllers/default.py: -3

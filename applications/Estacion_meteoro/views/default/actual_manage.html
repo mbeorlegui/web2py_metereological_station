@@ -1,0 +1,90 @@
+{{extend 'layout.html'}}
+
+<h2>Graficos de variacion</h2>
+<p>Variacion de temperatura</p>
+<div class="ct-chart ct-major-twelfth" id="grafi"></div>
+<div id="target"></div>
+
+<p>Variacion de humedad</p>
+<div class="ct-chart2 ct-major-twelfth" id="grafi2"></div>
+<div id="target2"></div>
+
+<p>Variacion de presion</p>
+<div class="ct-chart3 ct-major-twelfth" id="grafi3"></div>
+<div id="target3"></div>
+
+<script>
+var data = {
+  series: [
+    [5, 2, 4, 2, 8, 7, 4, 5, 2, 4, 2, 8, 7, 4]
+  ]
+};
+
+var data2 = {
+  series: [
+    [0, 10, 3, 7, 4, 6, 5,0, 10, 3, 7, 4, 6, 5]
+  ]
+};
+
+var data3 = {
+  series: [
+    [10, 0, 7, 3, 6, 4, 5,10, 0, 7, 3, 6, 4, 5]
+  ]
+};
+
+var options = {
+
+  showPoint: true,
+  lineSmooth: true,
+
+  axisX: {
+    showGrid: true,
+    showLabel: false
+  },
+  axisY: {
+    offset: 60
+    }
+  }
+
+var grafico = new Chartist.Line('#grafi', data, options);
+var grafico2 = new Chartist.Line('#grafi2', data2, options);
+var grafico3 = new Chartist.Line('#grafi3', data3, options);
+    
+function consulta_temp(){
+    jQuery.getJSON("{{=URL('call',args=['json','series_temp'])}}",
+            function(msg){
+                document.getElementById('target').innerHTML = msg;
+                var parsed = JSON.parse(msg);
+                grafico.update(parsed);
+            }
+    );
+    setTimeout('consulta_temp()', 500);
+}
+
+function consulta_hume(){
+    jQuery.getJSON("{{=URL('call',args=['json','series_hume'])}}",
+            function(msg){
+                document.getElementById('target2').innerHTML = msg;
+                var parsed = JSON.parse(msg);
+                grafico2.update(parsed);
+            }
+    );
+    setTimeout('consulta_hume()', 500);
+}
+
+function consulta_presion(){
+    jQuery.getJSON("{{=URL('call',args=['json','series_presion'])}}",
+            function(msg){
+                document.getElementById('target3').innerHTML = msg;
+                var parsed = JSON.parse(msg);
+                grafico3.update(parsed);
+            }
+    );
+    setTimeout('consulta_presion()', 500);
+}
+
+setTimeout('consulta_temp()', 500);
+setTimeout('consulta_hume()', 500);
+setTimeout('consulta_presion()', 500);
+
+</script>

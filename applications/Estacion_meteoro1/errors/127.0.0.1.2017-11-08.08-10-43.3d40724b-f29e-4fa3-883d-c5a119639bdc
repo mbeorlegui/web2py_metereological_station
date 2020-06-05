@@ -1,0 +1,825 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.IOError'> [Errno 13] Permission denied: 'C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py\\\\applications\\\\Estacion_meteoro\\\\databases\\\\sql.log'"
+p3
+sS'layer'
+p4
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\models\\db_wizard.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 040A31D0, file "C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\models\\db_wizard.py", line 5>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.IOError object>"
+p13
+sS'__str__'
+p14
+S"<method-wrapper '__str__' of exceptions.IOError object>"
+p15
+sS'__reduce__'
+p16
+S'<built-in method __reduce__ of exceptions.IOError object>'
+p17
+sS'__dict__'
+p18
+S'{}'
+p19
+sS'__sizeof__'
+p20
+S'<built-in method __sizeof__ of exceptions.IOError object>'
+p21
+sS'message'
+p22
+S"''"
+p23
+sS'__init__'
+p24
+S"<method-wrapper '__init__' of exceptions.IOError object>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of exceptions.IOError object>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of exceptions.IOError object>'
+p29
+sS'__new__'
+p30
+S'<built-in method __new__ of type object>'
+p31
+sS'errno'
+p32
+S'13'
+p33
+sS'__format__'
+p34
+S'<built-in method __format__ of exceptions.IOError object>'
+p35
+sS'__class__'
+p36
+S"<type 'exceptions.IOError'>"
+p37
+sS'filename'
+p38
+S"r'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\databases\\sql.log'"
+p39
+sS'__doc__'
+p40
+S"'I/O operation failed.'"
+p41
+sS'__getitem__'
+p42
+S"<method-wrapper '__getitem__' of exceptions.IOError object>"
+p43
+sS'__setstate__'
+p44
+S'<built-in method __setstate__ of exceptions.IOError object>'
+p45
+sS'__getattribute__'
+p46
+S"<method-wrapper '__getattribute__' of exceptions.IOError object>"
+p47
+sS'args'
+p48
+S"(13, 'Permission denied')"
+p49
+sS'__subclasshook__'
+p50
+S'<built-in method __subclasshook__ of type object>'
+p51
+sS'__unicode__'
+p52
+S'<built-in method __unicode__ of exceptions.IOError object>'
+p53
+sS'strerror'
+p54
+S"'Permission denied'"
+p55
+sS'__delattr__'
+p56
+S"<method-wrapper '__delattr__' of exceptions.IOError object>"
+p57
+sS'__repr__'
+p58
+S"<method-wrapper '__repr__' of exceptions.IOError object>"
+p59
+sS'__hash__'
+p60
+S"<method-wrapper '__hash__' of exceptions.IOError object>"
+p61
+ssS'evalue'
+p62
+S"[Errno 13] Permission denied: 'C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py\\\\applications\\\\Estacion_meteoro\\\\databases\\\\sql.log'"
+p63
+sS'request'
+p64
+cgluon.html
+XML_unpickle
+p65
+(S's\xc8_\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>Estacion_meteoro</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>json</div></td></tr><tr><td><div>series_hume</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>default</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-a9623c55-091a-4a09-99f1-f2be5190bee6<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_estacion_meteoro</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-1f866db5-bd5c-4eab-94dd-31a10c55fb4f<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_welcome</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-3e0397f6-7a76-4c17-82c4-1f1a8984dcc0<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>application/json, text/javascript, */*; q=0.01</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>es-ES,es;q=0.8,en;q=0.6,pt;q=0.4,fr;q=0.2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>_ga=GA1.1.1129760076.1507744142; _gid=GA1.1.583109528.1510052763; session_id_welcome=127.0.0.1-3e0397f6-7a76-4c17-82c4-1f1a8984dcc0; session_id_admin=127.0.0.1-a9623c55-091a-4a09-99f1-f2be5190bee6; session_id_estacion_meteoro=127.0.0.1-1f866db5-bd5c-4eab-94dd-31a10c55fb4f</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/Estacion_meteoro/default/actual_manage</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_X_REQUESTED_WITH</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/Estacion_meteoro/default/call/json/series_hume</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>50643</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>Beorlegui</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py\\\\applications\\\\admin\\\\&#x27;, &#x27;C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py\\\\applications\\\\welcome\\\\&#x27;, &#x27;C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py\\\\applications\\\\Estacion_meteoro\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Marcelo\\Desktop\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x2cd7288: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;Beorlegui&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Marcelo\\Desktop\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>application/json, text/javascript, */*; q=0.01</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>es-ES,es;q=0.8,en;q=0.6,pt;q=0.4,fr;q=0.2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>_ga=GA1.1.1129760076.1507744142; _gid=GA1.1.583109528.1510052763; session_id_welcome=127.0.0.1-3e0397f6-7a76-4c17-82c4-1f1a8984dcc0; session_id_admin=127.0.0.1-a9623c55-091a-4a09-99f1-f2be5190bee6; session_id_estacion_meteoro=127.0.0.1-1f866db5-bd5c-4eab-94dd-31a10c55fb4f</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/Estacion_meteoro/default/actual_manage</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_x_requested_with</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::35d2:ce1:affb:e78%11</div></td></tr><tr><td><div>10.1.9.200</div></td></tr><tr><td><div>Beorlegui</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>fe80::73:3f55:4ad1:c35a%3</div></td></tr><tr><td><div>2001:0:5ef5:79fd:73:3f55:4ad1:c35a</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/Estacion_meteoro/default/call/json/series_hume</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>50643</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/Estacion_meteoro/default/call/json/series_hume</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>Beorlegui</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Marcelo\\Desktop\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.2-stable+timestamp.2017.07.19.12.18.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x01EFD0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x02FE0308&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x0B1D32B0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x01EFD0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x02FE0308&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x0B1D32B0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>call</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py\\\\applications\\\\admin\\\\&#x27;, &#x27;C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py\\\\applications\\\\welcome\\\\&#x27;, &#x27;C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py\\\\applications\\\\Estacion_meteoro\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Marcelo\\Desktop\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x2cd7288: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;Beorlegui&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Marcelo\\Desktop\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::35d2:ce1:affb:e78%11</div></td></tr><tr><td><div>10.1.9.200</div></td></tr><tr><td><div>Beorlegui</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>fe80::73:3f55:4ad1:c35a%3</div></td></tr><tr><td><div>2001:0:5ef5:79fd:73:3f55:4ad1:c35a</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.2-stable+timestamp.2017.07.19.12.18.41</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 8, 8, 10, 43, 905000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div>json/series_hume</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/Estacion_meteoro/default/call/json/series_hume</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 8, 11, 10, 43, 905000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x09ECAE90&gt;</div></td></tr></table></div>'
+tRp66
+sS'frames'
+p67
+(lp68
+(dp69
+S'file'
+p70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\restricted.py'
+p71
+sS'dump'
+p72
+(dp73
+S'environment'
+p74
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p75
+sS'ccode'
+p76
+S'<code object <module> at 040A31D0, file "C:\\User...ns\\Estacion_meteoro\\models\\db_wizard.py", line 5>'
+p77
+ssS'lnum'
+p78
+I219
+sS'lines'
+p79
+(dp80
+I214
+S'    if environment is None:'
+p81
+sI215
+S'        environment = {}'
+p82
+sI216
+S"    environment['__file__'] = layer"
+p83
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p84
+sI218
+S'    try:'
+p85
+sI219
+S'        exec(ccode, environment)'
+p86
+sI220
+S'    except HTTP:'
+p87
+sI221
+S'        raise'
+p88
+sI222
+S'    except RestrictedError:'
+p89
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p90
+ssS'call'
+p91
+S'(ccode=<code object <module> at 040A31D0, file "C:\\User...ns\\Estacion_meteoro\\models\\db_wizard.py", line 5>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, ...}, layer=r\'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\models\\db_wizard.py\')'
+p92
+sS'func'
+p93
+S'restricted'
+p94
+sa(dp95
+g70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\models\\db_wizard.py'
+p96
+sg72
+(dp97
+S'migrate'
+p98
+S'undefined'
+p99
+sS'settings.migrate'
+p100
+S'True'
+p101
+sS'settings'
+p102
+S"<Storage {'layout_theme': 'Default', 'subtitle':...l_server': 'localhost', 'login_method': 'local'}>"
+p103
+ssg78
+I25
+sg79
+(dp104
+I18
+S"    Field('indice_uv', type='string',"
+p105
+sI19
+S"          label=T('Indice UV')),"
+p106
+sI20
+S"    Field('cantidad_lluvia', type='string',"
+p107
+sI21
+S"          label=T('Cantidad de lluvia (mm)')),"
+p108
+sI22
+S"    Field('presion', type='string',"
+p109
+sI23
+S"          label=T('Presion atmosferica (hPa)')),"
+p110
+sI24
+S"    format='%(f_temperatura)s',"
+p111
+sI25
+S'    migrate=settings.migrate)'
+p112
+sI26
+S''
+sI27
+S"db.define_table('t_registro_clima_archive',db.t_registro_clima,Field('current_record','reference t_registro_clima',readable=False,writable=False))"
+p113
+ssg91
+S'()'
+p114
+sg93
+S'<module>'
+p115
+sa(dp116
+g70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\base.py'
+p117
+sg72
+(dp118
+S'fields'
+p119
+S'(<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>)'
+p120
+sS'self'
+p121
+S'<DAL uri="sqlite://storage.sqlite">'
+p122
+sS'args'
+p123
+S"{'format': '%(f_temperatura)s', 'migrate': True}"
+p124
+sS'tablename'
+p125
+S"'t_registro_clima'"
+p126
+sS'table'
+p127
+g99
+sS'self.lazy_define_table'
+p128
+S'<bound method DAL.lazy_define_table of <DAL uri="sqlite://storage.sqlite">>'
+p129
+ssg78
+I587
+sg79
+(dp130
+I582
+S'                                  (tablename, invalid_args))'
+p131
+sI583
+S'        if self._lazy_tables and tablename not in self._LAZY_TABLES:'
+p132
+sI584
+S'            self._LAZY_TABLES[tablename] = (tablename, fields, args)'
+p133
+sI585
+S'            table = None'
+p134
+sI586
+S'        else:'
+p135
+sI587
+S'            table = self.lazy_define_table(tablename, *fields, **args)'
+p136
+sI588
+S'        if tablename not in self.tables:'
+p137
+sI589
+S'            self.tables.append(tablename)'
+p138
+sI590
+S'        return table'
+p139
+sI591
+S''
+ssg91
+S'(self=<DAL uri="sqlite://storage.sqlite">, tablename=\'t_registro_clima\', *fields=(<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>), **args={\'format\': \'%(f_temperatura)s\', \'migrate\': True})'
+p140
+sg93
+S'define_table'
+p141
+sa(dp142
+g70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\base.py'
+p143
+sg72
+(dp144
+S'polymodel'
+p145
+S'None'
+p146
+ssg78
+I621
+sg79
+(dp147
+I616
+S'            try:'
+p148
+sI617
+S'                GLOBAL_LOCKER.acquire()'
+p149
+sI618
+S'                self._adapter.create_table('
+p150
+sI619
+S'                    table, migrate=migrate,'
+p151
+sI620
+S'                    fake_migrate=fake_migrate,'
+p152
+sI621
+S'                    polymodel=polymodel)'
+p153
+sI622
+S'            finally:'
+p154
+sI623
+S'                GLOBAL_LOCKER.release()'
+p155
+sI624
+S'        else:'
+p156
+sI625
+S'            table._dbt = None'
+p157
+ssg91
+S'(self=<DAL uri="sqlite://storage.sqlite">, tablename=\'t_registro_clima\', *fields=(<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>), **args={\'format\': \'%(f_temperatura)s\', \'migrate\': True})'
+p158
+sg93
+S'lazy_define_table'
+p159
+sa(dp160
+g70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p161
+sg72
+(dp162
+S'self'
+p163
+S'<pydal.adapters.sqlite.SQLite object>'
+p164
+sS'args'
+p165
+S'(<Table t_registro_clima (id, fechahora, temperat...dad_viento, indice_uv, cantidad_lluvia, presion)>,)'
+p166
+sS'self.migrator'
+p167
+S'<pydal.migrator.Migrator object>'
+p168
+sS'self.migrator.create_table'
+p169
+S'<bound method Migrator.create_table of <pydal.migrator.Migrator object>>'
+p170
+sS'kwargs'
+p171
+S"{'fake_migrate': False, 'migrate': True, 'polymodel': None}"
+p172
+ssg78
+I795
+sg79
+(dp173
+I790
+S''
+sI791
+S'    def bulk_insert(self, table, items):'
+p174
+sI792
+S'        return [self.insert(table, item) for item in items]'
+p175
+sI793
+S''
+sI794
+S'    def create_table(self, *args, **kwargs):'
+p176
+sI795
+S'        return self.migrator.create_table(*args, **kwargs)'
+p177
+sI796
+S''
+sI797
+S'    def _drop_table_cleanup(self, table):'
+p178
+sI798
+S'        super(SQLAdapter, self)._drop_table_cleanup(table)'
+p179
+sI799
+S'        if table._dbt:'
+p180
+ssg91
+S"(self=<pydal.adapters.sqlite.SQLite object>, *args=(<Table t_registro_clima (id, fechahora, temperat...dad_viento, indice_uv, cantidad_lluvia, presion)>,), **kwargs={'fake_migrate': False, 'migrate': True, 'polymodel': None})"
+p181
+sg93
+S'create_table'
+p182
+sa(dp183
+g70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py'
+p184
+sg72
+(dp185
+S'fake_migrate'
+p186
+S'False'
+p187
+ssg78
+I314
+sg79
+(dp188
+I309
+S'            if sql_fields != sql_fields_old:'
+p189
+sI310
+S'                self.migrate_table('
+p190
+sI311
+S'                    table,'
+p191
+sI312
+S'                    sql_fields, sql_fields_old,'
+p192
+sI313
+S'                    sql_fields_aux, None,'
+p193
+sI314
+S'                    fake_migrate=fake_migrate'
+p194
+sI315
+S'                    )'
+p195
+sI316
+S'        return query'
+p196
+sI317
+S''
+sI318
+S'    def _fix(self, item):'
+p197
+ssg91
+S'(self=<pydal.migrator.Migrator object>, table=<Table t_registro_clima (id, fechahora, temperat...dad_viento, indice_uv, cantidad_lluvia, presion)>, migrate=True, fake_migrate=False, polymodel=None)'
+p198
+sg93
+g182
+sa(dp199
+g70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py'
+p200
+sg72
+(dp201
+S'table'
+p202
+S'<Table t_registro_clima (id, fechahora, temperat...dad_viento, indice_uv, cantidad_lluvia, presion)>'
+p203
+sS'self'
+p204
+S'<pydal.migrator.Migrator object>'
+p205
+sS'self.log'
+p206
+S'<bound method Migrator.log of <pydal.migrator.Migrator object>>'
+p207
+ssg78
+I465
+sg79
+(dp208
+I460
+S''
+sI461
+S'        if metadata_change and not ('
+p209
+sI462
+S'           query and db._adapter.commit_on_alter_table):'
+p210
+sI463
+S'            db.commit()'
+p211
+sI464
+S'            self.save_dbt(table, sql_fields_current)'
+p212
+sI465
+S"            self.log('success!\\n', table)"
+p213
+sI466
+S''
+sI467
+S'    def save_dbt(self, table, sql_fields_current):'
+p214
+sI468
+S"        tfile = self.file_open(table._dbt, 'wb')"
+p215
+sI469
+S'        pickle.dump(sql_fields_current, tfile)'
+p216
+ssg91
+S'(self=<pydal.migrator.Migrator object>, table=<Table t_registro_clima (id, fechahora, temperat...dad_viento, indice_uv, cantidad_lluvia, presion)>, sql_fields={\'cantidad_lluvia\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'cantidad_lluvia\', \'rname\': \'"cantidad_lluvia"\', \'sortable\': 9, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'direccion_viento\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'direccion_viento\', \'rname\': \'"direccion_viento"\', \'sortable\': 6, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'fechahora\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'fechahora\', \'rname\': \'"fechahora"\', \'sortable\': 2, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'humedad\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'humedad\', \'rname\': \'"humedad"\', \'sortable\': 4, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'id\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'id\', \'rname\': \'"id"\', \'sortable\': 1, \'sql\': \'INTEGER PRIMARY KEY AUTOINCREMENT\', \'type\': \'id\', \'unique\': False}, \'indice_uv\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'indice_uv\', \'rname\': \'"indice_uv"\', \'sortable\': 8, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'presion\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'presion\', \'rname\': \'"presion"\', \'sortable\': 10, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'sensacion_termica\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'sensacion_termica\', \'rname\': \'"sensacion_termica"\', \'sortable\': 5, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'temperatura\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'temperatura\', \'rname\': \'"temperatura"\', \'sortable\': 3, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'velocidad_viento\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'velocidad_viento\', \'rname\': \'"velocidad_viento"\', \'sortable\': 7, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}}, sql_fields_old={\'cantidad_lluvia\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'cantidad_lluvia\', \'rname\': \'"cantidad_lluvia"\', \'sortable\': 9, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'direccion_viento\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'direccion_viento\', \'rname\': \'"direccion_viento"\', \'sortable\': 6, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'f_humedad\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'f_humedad\', \'rname\': \'"f_humedad"\', \'sortable\': 3, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'f_sensacion_termica\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'f_sensacion_termica\', \'rname\': \'"f_sensacion_termica"\', \'sortable\': 4, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'f_temperatura\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'f_temperatura\', \'rname\': \'"f_temperatura"\', \'sortable\': 2, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'fechahora\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'fechahora\', \'rname\': \'"fechahora"\', \'sortable\': 2, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'humedad\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'humedad\', \'rname\': \'"humedad"\', \'sortable\': 4, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'id\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'id\', \'rname\': \'"id"\', \'sortable\': 1, \'sql\': \'INTEGER PRIMARY KEY AUTOINCREMENT\', \'type\': \'id\', \'unique\': False}, \'indice_uv\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'indice_uv\', \'rname\': \'"indice_uv"\', \'sortable\': 8, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, \'presion\': {\'length\': 512, \'notnull\': False, \'raw_rname\': \'presion\', \'rname\': \'"presion"\', \'sortable\': 10, \'sql\': \'CHAR(512)\', \'type\': \'string\', \'unique\': False}, ...}, sql_fields_aux={\'cantidad_lluvia\': {\'sql\': \'CHAR(512)\'}, \'direccion_viento\': {\'sql\': \'CHAR(512)\'}, \'fechahora\': {\'sql\': \'CHAR(512)\'}, \'humedad\': {\'sql\': \'CHAR(512)\'}, \'id\': {\'sql\': \'INTEGER PRIMARY KEY AUTOINCREMENT\'}, \'indice_uv\': {\'sql\': \'CHAR(512)\'}, \'presion\': {\'sql\': \'CHAR(512)\'}, \'sensacion_termica\': {\'sql\': \'CHAR(512)\'}, \'temperatura\': {\'sql\': \'CHAR(512)\'}, \'velocidad_viento\': {\'sql\': \'CHAR(512)\'}}, logfile=None, fake_migrate=False)'
+p217
+sg93
+S'migrate_table'
+p218
+sa(dp219
+g70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py'
+p220
+sg72
+(dp221
+S'table'
+p222
+S'<Table t_registro_clima (id, fechahora, temperat...dad_viento, indice_uv, cantidad_lluvia, presion)>'
+p223
+sS'self'
+p224
+S'<pydal.migrator.Migrator object>'
+p225
+sS'logfile'
+p226
+g99
+sS'table._loggername'
+p227
+S"r'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\databases\\sql.log'"
+p228
+sS'self.file_open'
+p229
+S'<function file_open>'
+p230
+ssg78
+I483
+sg79
+(dp231
+I480
+S'                table._loggername = logfilename'
+p232
+sI481
+S'            else:'
+p233
+sI482
+S'                table._loggername = pjoin(self.adapter.folder, logfilename)'
+p234
+sI483
+S"            logfile = self.file_open(table._loggername, 'ab')"
+p235
+sI484
+S'            logfile.write(to_bytes(message))'
+p236
+sI485
+S'            self.file_close(logfile)'
+p237
+sI486
+S''
+sI487
+S'    @staticmethod'
+p238
+sI478
+S'        if table and table._dbt and writelog and self.adapter.folder:'
+p239
+sI479
+S'            if isabs:'
+p240
+ssg91
+S"(self=<pydal.migrator.Migrator object>, message='success!\\n', table=<Table t_registro_clima (id, fechahora, temperat...dad_viento, indice_uv, cantidad_lluvia, presion)>)"
+p241
+sg93
+S'log'
+p242
+sa(dp243
+g70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py'
+p244
+sg72
+(dp245
+S'mode'
+p246
+S"'ab'"
+p247
+sS'portalocker.LockedFile'
+p248
+S"<class 'pydal.contrib.portalocker.LockedFile'>"
+p249
+sS'global portalocker'
+p250
+S"<module 'pydal.contrib.portalocker' from 'C:\\Use...gluon\\packages\\dal\\pydal\\contrib\\portalocker.py'>"
+p251
+sS'fileobj'
+p252
+g99
+sS'filename'
+p253
+S"r'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\databases\\sql.log'"
+p254
+ssg78
+I491
+sg79
+(dp255
+I486
+S''
+sI487
+S'    @staticmethod'
+p256
+sI488
+S"    def file_open(filename, mode='rb', lock=True):"
+p257
+sI489
+S'        #to be used ONLY for files that on GAE may not be on filesystem'
+p258
+sI490
+S'        if lock:'
+p259
+sI491
+S'            fileobj = portalocker.LockedFile(filename, mode)'
+p260
+sI492
+S'        else:'
+p261
+sI493
+S'            fileobj = open(filename, mode)'
+p262
+sI494
+S'        return fileobj'
+p263
+sI495
+S''
+ssg91
+S"(filename=r'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\databases\\sql.log', mode='ab', lock=True)"
+p264
+sg93
+S'file_open'
+p265
+sa(dp266
+g70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\contrib\\portalocker.py'
+p267
+sg72
+(dp268
+S'mode.replace'
+p269
+S'<built-in method replace of str object>'
+p270
+sS'self'
+p271
+S'<pydal.contrib.portalocker.LockedFile object>'
+p272
+sS'global open_file'
+p273
+S'<function open_file>'
+p274
+sS'filename'
+p275
+S"r'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\databases\\sql.log'"
+p276
+sS'mode'
+p277
+S"'ab'"
+p278
+sS'self.file'
+p279
+S'None'
+p280
+ssg78
+I185
+sg79
+(dp281
+I180
+S'        self.file = None'
+p282
+sI181
+S"        if 'r' in mode:"
+p283
+sI182
+S'            self.file = open_file(filename, mode)'
+p284
+sI183
+S'            lock(self.file, LOCK_SH)'
+p285
+sI184
+S"        elif 'w' in mode or 'a' in mode:"
+p286
+sI185
+S"            self.file = open_file(filename, mode.replace('w', 'a'))"
+p287
+sI186
+S'            lock(self.file, LOCK_EX)'
+p288
+sI187
+S"            if 'a' not in mode:"
+p289
+sI188
+S'                self.file.seek(0)'
+p290
+sI189
+S'                self.file.truncate(0)'
+p291
+ssg91
+S"(self=<pydal.contrib.portalocker.LockedFile object>, filename=r'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\databases\\sql.log', mode='ab')"
+p292
+sg93
+g24
+sa(dp293
+g70
+S'C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\contrib\\portalocker.py'
+p294
+sg72
+(dp295
+S'builtinopen'
+p296
+S'<built-in function open>'
+p297
+sS'filename'
+p298
+S"r'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\databases\\sql.log'"
+p299
+sS'mode'
+p300
+S"'ab'"
+p301
+sS'f'
+g99
+ssg78
+I170
+sg79
+(dp302
+I165
+S'        pass'
+p303
+sI166
+S''
+sI167
+S''
+sI168
+S'def open_file(filename, mode):'
+p304
+sI169
+S"    if PY2 or 'b' in mode:"
+p305
+sI170
+S'        f = open(filename, mode)'
+p306
+sI171
+S'    else:'
+p307
+sI172
+S"        f = open(filename, mode, encoding='utf8')"
+p308
+sI173
+S'    return f'
+p309
+sI174
+S''
+ssg91
+S"(filename=r'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\databases\\sql.log', mode='ab')"
+p310
+sg93
+S'open_file'
+p311
+sasS'pyver'
+p312
+S'Python 2.7.9: C:\\Users\\Marcelo\\Desktop\\web2py\\web2py.exe (prefix: C:\\Python27)'
+p313
+sS'session'
+p314
+g65
+(S's\x1a\x00\x00\x00<div><table></table></div>'
+tRp315
+sS'etype'
+p316
+S"<type 'exceptions.IOError'>"
+p317
+sS'date'
+p318
+S'Wed Nov 08 08:10:44 2017'
+p319
+sS'response'
+p320
+g65
+(S'sa\x16\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x0BC5F5C0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_estacion_meteoro</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-442f2101-44b3-442f-9bc5-00f5382c9950<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>bootstrap3_inline</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^default/\\w+\\.py$</div></td></tr><tr><td><div>^default/call/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_estacion_meteoro</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\sessions\\127.0.0.1-442f2101-44b3-442f-9bc5-00f5382c9950</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>c0762cbf4baf7f9af97c051e7fcb8083</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-442f2101-44b3-442f-9bc5-00f5382c9950</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_estacion_meteoro</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>Estacion_meteoro</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>default/call.html</div></td></tr></table></div>'
+tRp321
+sS'locals'
+p322
+(dp323
+S'mode'
+p324
+S"'ab'"
+p325
+sg38
+S"r'C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\databases\\sql.log'"
+p326
+sssS'traceback'
+p327
+S'Traceback (most recent call last):\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\applications\\Estacion_meteoro\\models\\db_wizard.py", line 25, in <module>\n    migrate=settings.migrate)\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\base.py", line 587, in define_table\n    table = self.lazy_define_table(tablename, *fields, **args)\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\base.py", line 621, in lazy_define_table\n    polymodel=polymodel)\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 795, in create_table\n    return self.migrator.create_table(*args, **kwargs)\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py", line 314, in create_table\n    fake_migrate=fake_migrate\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py", line 465, in migrate_table\n    self.log(\'success!\\n\', table)\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py", line 483, in log\n    logfile = self.file_open(table._loggername, \'ab\')\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py", line 491, in file_open\n    fileobj = portalocker.LockedFile(filename, mode)\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\contrib\\portalocker.py", line 185, in __init__\n    self.file = open_file(filename, mode.replace(\'w\', \'a\'))\n  File "C:\\Users\\Marcelo\\Desktop\\web2py\\gluon\\packages\\dal\\pydal\\contrib\\portalocker.py", line 170, in open_file\n    f = open(filename, mode)\nIOError: [Errno 13] Permission denied: \'C:\\\\Users\\\\Marcelo\\\\Desktop\\\\web2py\\\\applications\\\\Estacion_meteoro\\\\databases\\\\sql.log\'\n'
+p328
+s.

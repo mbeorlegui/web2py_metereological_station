@@ -1,0 +1,27 @@
+# -*- coding: utf-8 -*-
+
+### required - do no delete
+def user(): return dict(form=auth())
+def download(): return response.download(request,db)
+def call(): return service()
+### end requires
+def index():
+    """
+    example action using the internationalization operator T and flash
+    rendered by views/default/index.html or views/generic.html
+
+    if you need a simple wiki simply replace the two lines below with:
+    return auth.wiki()
+    """
+    response.flash = T("Hola usuarios!")
+    return dict(message=T('Welcome to web2py!'))
+
+def error():
+    return dict()
+
+def registro_clima_manage():
+    form = SQLFORM.smartgrid(db.t_registro_clima,onupdate=auth.archive)
+    return locals()
+
+def actual_manage():
+    return dict()
